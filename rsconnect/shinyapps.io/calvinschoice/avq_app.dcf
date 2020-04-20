@@ -1,0 +1,12 @@
+name: avq_app
+title: avq_app
+username:
+account: calvinschoice
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2133279
+bundleId: 3025155
+url: https://calvinschoice.shinyapps.io/avq_app/
+when: 1587092677.7544
+asMultiple: FALSE
+asStatic: FALSE
